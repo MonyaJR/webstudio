@@ -1,0 +1,15 @@
+.portfolio-bg{
+  position: relative;
+  width: 100%;
+}
+.portfolio-text-dev,.portfolio-text-landing{
+  position: absolute;
+}
+.portfolio-text-dev{
+  top: 10%;
+  left: 41%;
+}
+.portfolio-text-landing{
+  top: 41%;
+  right: 9%;
+}

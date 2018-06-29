@@ -1,0 +1,25 @@
+.inner-img{
+  position: relative;
+  width: 100%;
+}
+.inner-text-wrap{
+  position: absolute;
+  bottom: 30%;
+  left: 5%;
+  background: rgba(0,0,0,.3);
+  padding: 10px;
+}
+.inner-text{
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 1px 3px 7px rgba(0,0,0,0.2);
+  color: #27aab3;
+}
+.inner-btn{
+  position: absolute;
+  left: 40%;
+  bottom: 20%;
+  border-radius: 25px;
+  padding: 10px 70px;
+  background: #27aab3;
+}
